@@ -49,12 +49,6 @@
 		<artifactId>hibernate-core</artifactId>
 		<version>4.0.1.Final</version>
 	</dependency>
-	<dependency>
-    <groupId>javax.servlet</groupId>
-    <artifactId>servlet-api</artifactId>
-    <version>2.3</version>
-    <scope>provided</scope>
-</dependency>	 	
   </dependencies>
   <build>
     <finalName>JavaVulnerableLab</finalName>
