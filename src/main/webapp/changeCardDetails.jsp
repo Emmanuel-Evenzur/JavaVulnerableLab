@@ -67,4 +67,4 @@ else
   <!-- CSRF  -->
 <!-- Insecure Direct Object Reference 2 -->
   
- <%@ include file="/footer.jsp" %>
+ 
